@@ -48,5 +48,5 @@ I want to learn how to dynamically implement data to html, so that it has more f
 
 ## Author
 
-- Website - [Add your name here]()
+- Website - [result-summary-web](https://result-summary-29.netlify.app/)
 - Frontend Mentor - [@isghost19](https://www.frontendmentor.io/profile/isghost19)
